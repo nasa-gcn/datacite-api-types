@@ -21,6 +21,6 @@
     "prepare": "openapi-typescript https://raw.githubusercontent.com/datacite/lupo/5.6.0/openapi.yaml -o index.d.ts"
   },
   "devDependencies": {
-    "openapi-typescript": "^6.2.4"
+    "openapi-typescript": "^7.10.1"
   }
 }
